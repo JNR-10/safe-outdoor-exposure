@@ -99,18 +99,8 @@ The system uses an XGBoost regressor which has been evaluated for accuracy in pr
 
 | Metric | Value |
 | :--- | :--- |
-| **MAE** | Low |
-| **RMSE** | Low |
-| **R²** | High |
+| **MAE** | 0.064 |
+| **RMSE** | 0.603 |
+| **R²** | 0.998 |
 
-*Refer to the charts below for detailed performance analysis:*
 
-| Actual vs Predicted | Model Performance |
-| :---: | :---: |
-| ![Actual vs Predicted](3_Actual_vs_Predicted_LineChart.png) | ![Model Performance](2_Model_Performance_BarChart.png) |
-
-## 🤝 Contributing
-Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
-
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
