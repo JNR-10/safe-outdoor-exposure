@@ -12,18 +12,6 @@ The system features a **live dashboard** for real-time monitoring and decision s
 - **Historical Data Analysis**: Capabilities to process and analyze historical environmental trends.
 - **Scalable Architecture**: Modular design separating data ingestion, processing, model training, and deployment.
 
-## 🏗️ Architecture
-The system follows a modular data pipeline architecture, from data acquisition to user interaction.
-
-### Software Architecture Flowchart
-![Software Architecture](1_Software_Architecture_Flowchart.png)
-
-### Software Stack Layers
-![Software Stack](5_Software_Stack_Layers.png)
-
-### Live Prediction Flow
-![Prediction Flow](4_Live_Prediction_CircularFlow.png)
-
 ## 🛠️ Technologies Used
 - **Language**: Python 3.8+
 - **Data Processing**: Pandas, NumPy
